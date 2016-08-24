@@ -1,4 +1,4 @@
-package com.github.paolorotolo.appintro;
+package com.github.starjose.appintro;
 
 import android.os.Bundle;
 import android.support.annotation.ColorInt;
